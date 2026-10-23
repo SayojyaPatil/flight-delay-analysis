@@ -63,9 +63,20 @@ Linear Regression produced the lowest recorded test RMSE among the evaluated mod
 
 ## Project Notebooks
 
-The eight original notebooks cover the complete academic workflow, from preprocessing and exploration through machine learning evaluation.
+The original eight notebooks are preserved without changes to their calculations, figures, or machine learning results.
 
-They are preserved to retain the original calculations, visualizations, and reported results.
+| Stage | Notebook |
+|---|---|
+| Data Cleaning — Part A | [Part 1A](notebooks/PART%201-%20DATA%20CLEANING%28a%29.ipynb) |
+| Data Cleaning — Part B | [Part 1B](notebooks/PART%201-%20DATA%20CLEANING%28b%29.ipynb) |
+| Data Cleaning — Part C | [Part 1C](notebooks/PART%201-%20DATA%20CLEANING%28c%29.ipynb) |
+| Departure and Arrival Delays | [Part 2](notebooks/PART%202%20-Delays%2CTakeoff%20and%20Landing.ipynb) |
+| Airline Comparison | [Part 3](notebooks/PART%203%20-COMPARING%20AIRLINES.ipynb) |
+| Airport Analysis | [Part 4](notebooks/PART%204-Relation%20Between%20Origin%20Airports.ipynb) |
+| Temporal Variability | [Part 5](notebooks/PART%205%20-%20TEMPORAL%20VARIABILITY%20OF%20DELAYS.ipynb) |
+| Machine Learning Predictions | [Part 6](notebooks/PART%206-FINAL%20PREDICTIONS%20USING%20ML.ipynb) |
+
+The notebooks document the original academic workflow. Execution requires access to the original datasets and compatible software dependencies.
 
 ## Reproducibility
 
